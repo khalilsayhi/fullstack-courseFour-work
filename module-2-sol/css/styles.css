@@ -99,10 +99,11 @@ p{
 }
 
 /*Mobile CSS*/
-@media (min-width: 10px) and  (max-width: 767px){
+@media only screen and  (min-width: 767px){
   .content{
     margin:20px;
   }
+
 
   p{
     padding-top:50px;
